@@ -47,7 +47,7 @@ To run the project in VSCode:
 
 - Open the project folder in VSCode.
 - Open a new terminal.
-- Use the command npx playwright test to run the tests or run individually each test.
+- Use the command npx playwright test to run the tests or run each test individually.
 
 ## Project Structure
 
